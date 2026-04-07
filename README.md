@@ -79,7 +79,7 @@
 ---
 
 ## 📫 Contact Me
-
+* Email: nouradel122006@gmail.com
 * GitHub: https://github.com/nourdel12
 
 ---
