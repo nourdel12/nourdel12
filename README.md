@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nour Adel
 
-🎓 **Computer Science Sophomore @ Misr International University**
+🎓 **Computer Science Sophomore student @ Misr International University**
 💻 Passionate about **Software Development & Problem Solving**
 🚀 Exploring **Frontend & Backend Development**
 
