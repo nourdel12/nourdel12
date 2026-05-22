@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nour Adel
+#  Hi, I'm Nour Adel
 
 🎓 **Computer Science Sophomore student @ Misr International University**
 💻 Passionate about **Software Development & Problem Solving**
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 * Strong foundation in **Data Structures & Algorithms**
 * Skilled in **C++ & Java (OOP)**
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 Dijkstra Algorithm Visualizer
 
@@ -40,29 +40,29 @@
 
 * Developing a web application using **Frontend & Backend technologies**
 * Learning real-world development workflow and system design
-  🚧 *Work in progress*
+   *Work in progress*
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 * C++
 * Java
 
-### 🌐 Web (Beginner)
+###  Web (Beginner)
 
 * HTML, CSS, JavaScript
 * Backend basics
 
-### ⚙️ Concepts
+###  Concepts
 
 * Data Structures
 * Algorithms
 * OOP
 
-### 🔧 Tools
+###  Tools
 
 * Git & GitHub
 * Qt Framework
@@ -70,7 +70,7 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * 📌 Become a **Full-Stack Developer**
 * 📌 Secure a **software development internship**
@@ -78,10 +78,10 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 * Email: nouradel122006@gmail.com
 * GitHub: https://github.com/nourdel12
 
 ---
 
-⭐ *Learning never stops 🚀*
+⭐ *Learning never stops *
